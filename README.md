@@ -58,7 +58,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/library-management-api.git
+git clone https://github.com/KhEliash/library-management-api
 cd library-management-api
 ````
 
@@ -209,7 +209,7 @@ Response:
 
 ## 🌐 Live Deployment
 
-[🔗 Visit API on Render]()
+[🔗 Visit API on Render](https://library-management-api-rho.vercel.app)
 
 ---
  
